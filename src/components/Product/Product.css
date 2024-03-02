@@ -36,6 +36,7 @@
     width: 100%;
     position: absolute;
     bottom: 0;
+    height: 40px;
 }
 .btn-cart:hover{
     background-color: orange;
