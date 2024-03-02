@@ -8,3 +8,9 @@
 .cart p{
     font-size: 17px;
 }
+.btn-clear{
+    width: 95%;
+    margin: 10px auto;
+    background-color: rgb(228, 96, 96);
+    border-radius: 5px;
+}
